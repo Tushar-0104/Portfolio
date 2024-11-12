@@ -1,4 +1,0 @@
-streamlit
-streamlit_lottie
-streamlit_open_menu
-pillow
